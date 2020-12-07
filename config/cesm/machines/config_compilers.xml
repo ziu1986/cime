@@ -1297,8 +1297,8 @@ using a fortran linker.
   <MPICC>mpiicc</MPICC>
   <MPICXX>mpiicpc</MPICXX>
   <MPIFC>mpiifort</MPIFC>
-</compiler>
-
+</compiler>  
+  
 <compiler MACH="userdefined">
   <CONFIG_ARGS>
     <base/>
